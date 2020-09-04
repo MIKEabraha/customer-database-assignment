@@ -1,0 +1,29 @@
+.address{
+background-color:aqua;
+
+    
+}
+
+.email{
+background-color:crimson;
+
+
+}
+
+.display{
+display:flex; 
+flex-flow: row wrap;
+text-align: left;
+}
+
+
+#customer-list{
+ display: flex; 
+ flex-flow: row wrap;
+
+ width: 3000px;
+
+ border: red 2px solid;
+ text-align: center;
+position: absolute;
+}
